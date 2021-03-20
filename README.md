@@ -26,3 +26,6 @@ cd dog-breed-classifier
 
 4. Download the [VGG-16 bottleneck features](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogVGG16Data.npz) for the dog dataset. Place it in the repo, at location path/to/dog-project/bottleneck_features.
 
+
+### Write-up
+A more in depth write-up can be found [here](https://medium.com/@christophermurphy-11823/dog-breed-classification-52c3b7b7f6a5) (draft).
